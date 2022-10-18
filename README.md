@@ -1,3 +1,5 @@
+Created Feature branch to have all changes committed to complete coding test.
+
 # Abercrombie AEM Developer Skill Assessment
 1. Clone this repository.
 2. Complete exercises below by creating/modifying code. You can architect the project how you like re: folder structure, how you name your files, etc. Please add comments at the start and end of the code (i.e. `***Begin Code - Candidate Name***` and `***END Code*****`). Use your best judgement as a developer.
